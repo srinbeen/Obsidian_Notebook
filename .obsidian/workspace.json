@@ -17,7 +17,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Algorithm"
             }
           },
           {
@@ -30,7 +32,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Alternating Series"
             }
           },
           {
@@ -43,7 +47,9 @@
                 "mode": "source",
                 "backlinks": false,
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Signal"
             }
           },
           {
@@ -53,7 +59,9 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.4.14"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.4.14"
             }
           },
           {
@@ -63,11 +71,37 @@
               "type": "release-notes",
               "state": {
                 "currentVersion": "1.4.16"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.4.16"
+            }
+          },
+          {
+            "id": "cb1648cfa8920d86",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.5.12"
+            }
+          },
+          {
+            "id": "2453501ccfe80509",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -87,7 +121,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -102,7 +138,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -110,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ],
@@ -134,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Signal.md",
+                "file": "Notes/Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +182,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Algorithm"
             }
           },
           {
@@ -150,7 +192,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -159,10 +203,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Signal.md",
+                "file": "Notes/Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Algorithm"
             }
           }
         ],
@@ -186,7 +232,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a18d503cce936f3e",
+  "active": "2453501ccfe80509",
   "lastOpenFiles": [
     "Notes/Correctness.md",
     "Notes/Alternating Series.md",
