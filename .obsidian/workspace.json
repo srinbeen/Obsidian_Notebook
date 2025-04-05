@@ -96,12 +96,24 @@
               "state": {
                 "currentVersion": "1.7.7"
               },
-              "icon": "lucide-file",
+              "icon": "lucide-book-up",
               "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "6506d0f48b9b0705",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -232,7 +244,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2453501ccfe80509",
+  "active": "6506d0f48b9b0705",
   "lastOpenFiles": [
     "Notes/Correctness.md",
     "Notes/Alternating Series.md",
